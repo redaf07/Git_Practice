@@ -1,1 +1,2 @@
 Subjects : JAVA,Database Management System,Computer Organization and Architecture , Discrete mathematics   
+Software engineering 
